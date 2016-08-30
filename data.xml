@@ -1,0 +1,21 @@
+
+<Data>
+<Draft id = "men">
+<rider id = "1">Juan Carlos</rider>
+<rider id = "2">Joshua Santos</rider>
+<rider id = "3">Carigo</rider>
+<rider id = "4">Jorge Carigo</rider>
+</Draft>
+<Scoreboard id = "men">
+
+<round id="1">
+<heat id="0"/>
+<heat id="1">
+<r num="2" score="9.1" />
+<r num="4" score="10.7" />
+</heat>
+</round>
+
+
+</Scoreboard>
+</Data>

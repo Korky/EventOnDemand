@@ -1,0 +1,409 @@
+<Data>
+ <Draft id="men">
+ <rider id="1">Brian Toth</rider>
+ <rider id="2">Carlos Cabrero</rider>
+ <rider id="3">Tommy Bursian</rider>
+ <rider id="4">Leslie Bursian</rider>
+ <rider id="5">Juan Ashton</rider>
+ <rider id="6">Gabriel Escudero</rider>
+ <rider id="7">Darren Muschett</rider>
+ <rider id="8">Jose Taverez</rider>
+ <rider id="9">Pablo Diaz</rider>
+ <rider id="10">Joe Suarez</rider>
+ <rider id="11">Willie Carrasco</rider>
+ <rider id="12">Josie Graves</rider>
+ <rider id="13">Juan Carlos Gerena</rider>
+ <rider id="14">Norberto Pena</rider>
+ <rider id="15">Moises Montalvo</rider>
+ <rider id="16">Leif Engstrom</rider>
+ <rider id="17">Wesley Toth</rider>
+ <rider id="18">Fernando Alvarez</rider>
+ <rider id="19">Wilfredo Deliz</rider>
+ <rider id="20">Eric Oed</rider>
+ <rider id="21">Eduardo Roure</rider>
+ <rider id="22">Julio Nurse</rider>
+ <rider id="23">Roger Torres</rider>
+ <rider id="24">Ricardo Delgado</rider>
+ <rider id="25">Otto Flores</rider>
+ <rider id="26">Gustavo Betancourt</rider>
+ <rider id="27">Ramse Morales</rider>
+ <rider id="28">Nicolas Moreda</rider>
+ <rider id="29">Alejandro Moreda</rider>
+ <rider id="30">Kristian Ferreira</rider>
+ <rider id="31">Ramon E Santiago</rider>
+ <rider id="32">Carlos Torres</rider>
+ <rider id="33">Gabriel Canals</rider>
+ <rider id="34">Guillermo Torres</rider>
+ <rider id="35">Cristian Rivera</rider>
+ <rider id="36">Dylan Graves</rider>
+ <rider id="37">Asher Nolan</rider>
+ <rider id="38">Ian Carlos Torres</rider>
+ <rider id="39">Bryan Laide</rider>
+ <rider id="40">Pedro Gil</rider>
+ <rider id="41">Benjamin Medina</rider>
+ <rider id="42">Davey Stiles</rider>
+ <rider id="43">Gabriel Velilla</rider>
+ <rider id="44">Guaili Ramirez</rider>
+ <rider id="45">Jorge Padron</rider>
+ <rider id="46">Kekoa Bacalso</rider>
+ <rider id="47">Magnum Martinez</rider>
+ <rider id="48">Francisco Maeso</rider>
+ <rider id="49">Benjamin Bourgeois</rider>
+ <rider id="50">Richard Whitlock</rider>
+ <rider id="51">Jeffrey Myers</rider>
+ <rider id="52">Hector Aparicio</rider>
+ <rider id="53">Alejandro Marin</rider>
+ <rider id="54">DJ Smith</rider>
+ <rider id="55">Miguel Diaz</rider>
+ <rider id="56">Gabe Kling</rider>
+ <rider id="57">Blake Jones</rider>
+ 
+ </Draft>
+ <Draft id="women">
+ <rider id="1">Liselie Gonzalez</rider>
+ <rider id="2">Idalis  Alvarado</rider>
+ <rider id="3">Maria Del Mar Gonzalez</rider>
+ <rider id="4">Liza Caban</rider>
+ <rider id="5">Ninotchka</rider>
+ <rider id="6">Alexis Engstrom</rider>
+ <rider id="7">Maria Kuznovich</rider>
+ <rider id="8">Natalie Perez</rider>
+ <rider id="9">Jasset Umbel</rider>
+ <rider id="10">Karina Petroni</rider>
+ <rider id="11">Kelly Laide</rider>
+ <rider id="12">Amy Nicholl</rider>
+ <rider id="13">Cindy Melendez</rider>
+ <rider id="14">Ariel Engstrom</rider>
+ <rider id="15">Cristina Canals</rider>
+ <rider id="16">Anastasia Ashley</rider>
+ <rider id="17">Zoraida Pagan</rider>
+ <rider id="18">Julie Gonzalez</rider>
+ <rider id="19">Nydia Del Mar Rafols</rider>
+ <rider id="20">Kelly Mc Connell</rider>
+ <rider id="21">Michelle Kienlen</rider>
+ <rider id="22">Claudia Cardona</rider>
+ </Draft>
+<Scoreboard id ="men">
+		<round id=" 1">
+            <heat id="0"/>
+			<heat id=" 1" >
+				<r num="17" score="11.10" />
+				<r num="40" score="8.93" />
+				<r num="41" score="9.00" />
+			</heat>
+			<heat id=" 2" >
+				<r num="28" score="7.97" />
+				<r num="29" score="12.80" />
+				<r num="52" score="6.33" />
+				<r num="53" score="7.17" />
+			</heat>
+			<heat id=" 3" >
+				<r num="24" score="11.24" />
+				<r num="33" score="9.03" />
+				<r num="48" score="7.64" />
+				<r num="55" score="10.97" />
+			</heat>
+			<heat id=" 4" >
+				<r num="21" score="10.10" />
+				<r num="36" score="14.44" />
+				<r num="45" score="7.00" />
+			</heat>
+			<heat id=" 5" >
+				<r num="20" score="7.90" />
+				<r num="37" score="10.94" />
+				<r num="44" score="7.17" />
+			</heat>
+			<heat id=" 6" >
+				<r num="25" score="9.94" />
+				<r num="32" score="9.83" />
+				<r num="49" score="14.03" />
+			</heat>
+			<heat id=" 7" >
+				<r num="26" score="7.60" />
+				<r num="31" score="5.97" />
+				<r num="50" score="9.40" />
+				<r num="54" score="8.93" />
+			</heat>
+			<heat id="8" >
+				<r num="19" score="12.06" />
+				<r num="38" score="5.60" />
+				<r num="43" score="6.27" />
+				<r num="56" score="12.76" />
+			</heat>	
+			<heat id="9" >
+				<r num="22" score="8.87" />
+				<r num="35" score="6.33" />
+				<r num="46" score="11.47" />		
+			</heat>				
+			<heat id="10" >
+				<r num="23" score="10.77" />
+				<r num="34" score="5.77" />
+				<r num="47" score="13.17" />
+			</heat>				
+			<heat id="11" >
+				<r num="27" score="8.24" />
+				<r num="30" score="7.70" />
+				<r num="51" score="5.83" />
+			</heat>				
+			<heat id="12" >
+				<r num="18" score="9.90" />
+				<r num="39" score="10.83" />
+				<r num="42" score="7.16" />
+				<r num="57" score="11.50" />
+			</heat>				
+		</round>
+		
+		<round id=" 2">
+            <heat id="0"/>
+			<heat id=" 1" >
+				<r num="17" score="10.53" />
+				<r num="55" score="8.00" />
+				<r num="29" score="11.50" />
+			</heat>
+			<heat id=" 2" >
+				<r num="24" score="9.80" />
+				<r num="41" score="8.67" />
+				<r num="36" score="14.27" />
+			</heat>
+			<heat id=" 3" >
+				<r num="37" score="16.27" />
+				<r num="54" score="14.33" />
+				<r num="49" score="12.04" />
+			</heat>
+			<heat id=" 4" >
+				<r num="50" score="9.40" />
+				<r num="20" score="6.77" />
+				<r num="56" score="12.27" />
+			</heat>
+			<heat id=" 5" >
+				<r num="21" score="13,00" />
+				<r num="30" score="13.30" />
+				<r num="57" score="7.57" />
+			</heat>
+			<heat id=" 6" >
+				<r num="28" score="9.27" />
+				<r num="46" score="14.93" />
+				<r num="39" score="11.87" />
+			</heat>
+			<heat id=" 7" >
+				<r num="19" score="12.50" />
+				<r num="27" score="9.47" />
+				<r num="23" score="11.60" />
+			</heat>
+			<heat id="8" >
+				<r num="25" score="14.94" />
+				<r num="47" score="6.43" />
+				<r num="22" score="9.20" />
+			</heat>	
+		</round>
+		
+		<round id=" 3">
+			<heat id="0"/>
+			<heat id=" 1" >
+				<r num="1" score="13.20" />
+				<r num="16" score="9.43" />
+				<r num="36" score="11.27" />
+				<r num="17" score="5.17" />
+			</heat>
+			<heat id=" 2" >
+				<r num="8" score="7.20" />
+				<r num="9" score="7.84" />
+				<r num="29" score="13.17" />
+				<r num="24" score="11.63" />	
+			</heat>
+			<heat id=" 3" >
+				<r num="4" score="10.46" />
+				<r num="13" score="10.90" />
+				<r num="56" score="12.33" />
+				<r num="49" score="12.77" />
+			</heat>
+			<heat id=" 4" >
+				<r num="5" score="9.60" />
+				<r num="12" score="13.34" />
+				<r num="37" score="14.94" />
+				<r num="20" score="9.90" />
+			</heat>
+			<heat id=" 5" >
+				<r num="2" score="13.20" />
+				<r num="15" score="3.57" />
+				<r num="46" score="10.00" />
+				<r num="21" score="8.93" />
+			</heat>
+			<heat id=" 6" >
+				<r num="7" score="9.33" />
+				<r num="10" score="7.23" />
+				<r num="30" score="8.17" />
+				<r num="39" score="7.43" />
+			</heat>
+			<heat id=" 7" >
+				<r num="3" score="10.00" />
+				<r num="14" score="7.20" />
+				<r num="25" score="12.10" />
+				<r num="23" score="9.97" />
+			</heat>
+			<heat id="8" >
+				<r num="6" score="9.93" />
+				<r num="11" score="5.83" />
+				<r num="19" score="12.34" />
+				<r num="22" score="3.17" />
+			</heat>
+		</round>
+		<round id=" 4">
+			<heat id="0"/>
+			<heat id=" 1" >
+				<r num="1" score="14.03" />
+				<r num="56" score="13.66" />
+				<r num="29" score="11.80" />
+				<r num="12" score="10.97" />
+			</heat>
+			<heat id=" 2" >
+				<r num="49" score="10.67" />
+				<r num="36" score="14.16" />
+				<r num="37" score="13.43" />
+				<r num="24" score="8.33" />
+			</heat>
+			<heat id=" 3" >
+				<r num="2" score="14.47" />
+				<r num="3" score="8.14" />
+				<r num="7" score="10.47" />
+				<r num="6" score="11.17" />
+			</heat>
+			<heat id=" 4" >
+				<r num="25" score="7.23" />
+				<r num="46" score="13.87" />
+				<r num="19" score="12.40" />
+				<r num="30" score="7.53" />
+			</heat>
+		</round>
+		<round id=" 5">
+			<heat id="0"/>
+			<heat id=" 1" >
+				<r num="1" score="11.83" />
+				<r num="37" score="12.60" />
+			</heat>
+			<heat id=" 2" >
+				<r num="36" score="9.67" />
+				<r num="56" score="13.67" />
+			</heat>
+			<heat id=" 3" >
+				<r num="2" score="11.60" />
+				<r num="19" score="11.76" />
+			</heat>
+			<heat id=" 4" >
+				<r num="46" score="14.93" />
+				<r num="6" score="12.66" />
+			</heat>
+		</round>
+		<round id=" 6">
+			<heat id="0"/>
+			<heat id=" 1" >
+				<r num="37" score="9.60" />
+				<r num="56" score="13.27" />
+			</heat>
+			<heat id=" 2" >
+				<r num="19" score="9.17" />
+				<r num="46" score="16.20" />	
+			</heat>	
+		</round>
+		<round id=" 7">
+			<heat id="0"/>
+			<heat id=" 1" >
+				<r num="46" score="12.00" />
+				<r num="56" score="17.67" />
+			</heat>
+		</round>		
+</Scoreboard>
+
+
+<Scoreboard id="women">
+
+		<round id="1">
+			<heat id="0"/>
+			<heat id="1">
+				<r num="9" score="12.63" />
+				<r num="14" score="8.00" />
+				<r num="17" score="4.53" />
+				<r num="22" score="2.00" />
+			</heat>
+			<heat id="2">
+				<r num="12" score="10.50" />
+				<r num="15" score="6.04" />
+				<r num="20" score="4.43" />			
+			</heat>
+			<heat id="3">				
+				<r num="11" score="8.43" />
+				<r num="16" score="9.43" />
+				<r num="19" score="7.94" />			
+			</heat>
+			<heat id="4">				
+				<r num="10" score="8.93" />
+				<r num="13" score="7.33" />
+				<r num="18" score="4.10" />
+				<r num="21" score="5.97" />			
+			</heat>
+		</round>
+		
+		<round id="2">
+			<heat id="0"/>
+			<heat id="1">
+				<r num="1" score="7.16" />
+				<r num="8" score="6.70" />
+				<r num="16" score="11.13" />
+				<r num="15" score="6.26" />
+			</heat>
+			<heat id="2">
+				<r num="4" score="9.13" />
+				<r num="5" score="6.13" />
+				<r num="10" score="8.57" />
+				<r num="14" score="7.40" />
+			</heat>
+			<heat id="3">
+				<r num="3" score="9.53" />
+				<r num="6" score="9.94" />
+				<r num="9" score="12.70" />
+				<r num="13" score="7.33" />
+			</heat>
+			<heat id="4">
+				<r num="2" score="8.94" />
+				<r num="7" score="4.77" />
+				<r num="12" score="8.84" />
+				<r num="11" score="4.80" />
+			</heat>
+		</round>
+
+		<round id="3">
+			<heat id="0"/>
+			<heat id="1">
+				<r num="16" score="8.10" />
+				<r num="12" score="9.06" />
+				<r num="10" score="0.00" />
+				<r num="9" score="9.00" />
+			</heat>
+			<heat id="2">
+				<r num="4" score="12.50" />
+				<r num="6" score="8.84" />
+				<r num="2" score="8.00" />
+				<r num="1" score="5.90" />
+			</heat>
+		</round>
+		<round id="4">
+			<heat id="0"/>
+			<heat id="1">
+				<r num="12" score="9.54" />
+				<r num="6" score="9.37" />
+			</heat>
+			<heat id="2">
+				<r num="4" score="12.67" />
+				<r num="9" score="6.33" />
+			</heat>
+
+		</round>
+		<round id="5">
+			<heat id="0"/>
+			<heat id="1">
+				<r num="12" score="9.53" />
+				<r num="4" score="6.00" />
+			</heat>
+		</round>				
+	</Scoreboard>
+</Data>
